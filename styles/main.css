@@ -1,0 +1,21 @@
+body{
+	background-color: #fafafa;
+}
+
+img.logo {
+    width:272px;
+    margin:0 auto;
+    text-align: center;
+    display: block;
+}
+
+#search {
+	text-align: center;
+}
+
+input.main {
+	width: 488px;
+	height: 48px;
+	box-shadow: 10px 10px 5px #f9f9f9;
+
+}
