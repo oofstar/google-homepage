@@ -11,6 +11,7 @@ img.logo {
 
 #search {
 	text-align: center;
+	padding: 150px;
 }
 
 input.main {
@@ -43,4 +44,34 @@ input.button {
 .button:hover {
 	border: 1px solid #c6c6c6;
 	box-shadow: 1px 1px 1px #f3f3f3;
+}
+
+#navbar {
+	width: 100%;
+	background-color: white;
+	font-family: arial, sans-serif;
+	text-align: right;
+	font-size: 12px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding:0;	
+}
+
+li {
+	display: inline;
+}
+
+a {
+	
+	padding: 8px;
+	
+}
+
+#footer {
+	width: 100%;
+	height: 30px;
+	background-color: #f2f2f2;
 }
